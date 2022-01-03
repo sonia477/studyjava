@@ -20,7 +20,7 @@ public class Hello {
 		�� -> */
 		// ctrl + space �ڵ��ϼ� (ex. sysout �Է� �� ctrl + space)
 		// window>preferences>java>editor>template
-		// change applied
+		// change
 		System.out.println();
 		System.out.println("Hello, 123 world.");
 		System.out.println("Hello, 123 world.");
