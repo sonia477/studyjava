@@ -24,5 +24,4 @@ public class Hello {
 		System.out.println("Hello, 123 world.");
 		System.out.println("Hello, 123 world.");
 	}
-
 }
