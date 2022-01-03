@@ -3,22 +3,22 @@ public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// ctrl + shift + L ´ÜÃàÅ° ÀüÃ¼ ¸ñ·Ï º¸±â
+		// ctrl + shift + L ï¿½ï¿½ï¿½ï¿½Å° ï¿½ï¿½Ã¼ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
 		// ctrl + '+','-'
-		// ctrl + D ÇÑ ÁÙ »èÁ¦
-		System.out.println("/* ÁÖ¼® ¾Æ´Ô Hello, 123 world.*/");
+		// ctrl + D ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		System.out.println("/* ï¿½Ö¼ï¿½ ï¿½Æ´ï¿½ Hello, 123 world.*/");
 		System.out.println("Hello, 123 world.");
-		// ctrl + alt + down ÀÌÇà ´ÜÀ§ º¹»ç
-		// alt + shift + A ¸ÖÀÌÆ¼ÄÃ·³ ÆíÁý
-		// alt + up, down Çà ´ÜÀ§ ÀÌµ¿
-		// ÃÊº¸¼­¿µ
-		// ctrl + i ÀÚµ¿ µé¿©¾²±â
-		// ctrl + / ÁÖ¼®Ã³¸® toggle key -> ÇÑÁÙ ÁÖ¼®
-		/* ¿©·¯ ÁÙ ÁÖ¼® ½ÃÀÛ
+		// ctrl + alt + down ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+		// alt + shift + A ï¿½ï¿½ï¿½ï¿½Æ¼ï¿½Ã·ï¿½ ï¿½ï¿½ï¿½ï¿½
+		// alt + up, down ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ìµï¿½
+		// ï¿½Êºï¿½ï¿½ï¿½ï¿½ï¿½
+		// ctrl + i ï¿½Úµï¿½ ï¿½é¿©ï¿½ï¿½ï¿½ï¿½
+		// ctrl + / ï¿½Ö¼ï¿½Ã³ï¿½ï¿½ toggle key -> ï¿½ï¿½ï¿½ï¿½ ï¿½Ö¼ï¿½
+		/* ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ö¼ï¿½ ï¿½ï¿½ï¿½ï¿½
 		System.out.println("Hello, 123 world.");
 		System.out.println("Hello, 123 world.");
-		³¡ -> */
-		// ctrl + space ÀÚµ¿¿Ï¼º (ex. sysout ÀÔ·Â ÈÄ ctrl + space)
+		ï¿½ï¿½ -> */
+		// ctrl + space ï¿½Úµï¿½ï¿½Ï¼ï¿½ (ex. sysout ï¿½Ô·ï¿½ ï¿½ï¿½ ctrl + space)
 		// window>preferences>java>editor>template
 		System.out.println();
 		System.out.println("Hello, 123 world.");
